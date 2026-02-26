@@ -5,7 +5,10 @@ else:
     print("Es un numero impar")
 
 edad = int(input("Ahora puede decirme tu edad?: "))
-if edad>=18:
-    print("Eres mayor de edad") 
+if edad<0:
+    print("No existen edades negativas")
 else:
-    print("Eres menor de edad")
+    if edad>=18:
+        print("Eres mayor de edad") 
+    else:
+        print("Eres menor de edad")
