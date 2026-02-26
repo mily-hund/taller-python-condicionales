@@ -1,0 +1,1 @@
+Taller semana 7, Emily López, 2674. En este repositorio vamos a ver los ejercicios usando condicionales ademas de iniciarlo correctamente en Git. Los ejercicios ha realizar van a ser: saludo formateado, par o impar + mayoria de edad, descuento tienda, tarifa de taxi y clasificador de notas
