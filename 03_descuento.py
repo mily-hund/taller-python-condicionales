@@ -19,4 +19,4 @@ print("Su cuenta final es: ")
 print(f"subotal:   {subtotal}")
 print(f"descuento aplicado:   {porcentaje}")
 print(f"total:   {subtotal-descuento} ")
-
+#actualizar commit
